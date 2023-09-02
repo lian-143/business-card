@@ -1,0 +1,20 @@
+body {
+  margin: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+img {
+  width: 150px;
+  border-radius: 10px;
+}
+
+.main-container {
+  width: 400px;
+  display: flex;
+  background: #ffffdd;
+  margin: 50px auto;
+  padding: 20px;
+  justify-content: space-around;
+  border-bottom: 10px solid #016a70;
+  border-radius: 30px;
+}
